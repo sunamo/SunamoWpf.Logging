@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vu47lWeCyCQ=",
+  "dgSpecHash": "hkOP88ms/qc=",
   "success": true,
-  "projectFilePath": "E:\\vs\\Projects\\WindowsNuGetPackages\\SunamoWpf.Logging\\SunamoWpf.Logging\\SunamoWpf.Logging.csproj",
+  "projectFilePath": "E:\\vs\\Projects\\PlatformIndependentNuGetPackages\\SunamoWpf.Logging\\SunamoWpf.Logging\\SunamoWpf.Logging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aktiv\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.8\\microsoft.extensions.dependencyinjection.10.0.8.nupkg.sha512",
     "C:\\Users\\aktiv\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.8\\microsoft.extensions.dependencyinjection.abstractions.10.0.8.nupkg.sha512",

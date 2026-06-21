@@ -1,0 +1,16 @@
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoWpf.Logging\SunamoWpf.Logging\bin\Release\net10.0-windows\SunamoWpf.Logging.deps.json
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoWpf.Logging\SunamoWpf.Logging\bin\Release\net10.0-windows\SunamoWpf.Logging.dll
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoWpf.Logging\SunamoWpf.Logging\bin\Release\net10.0-windows\SunamoWpf.Logging.pdb
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoWpf.Logging\SunamoWpf.Logging\bin\Release\net10.0-windows\SunamoWpf.Core.dll
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoWpf.Logging\SunamoWpf.Logging\bin\Release\net10.0-windows\SunamoWpf.SunamoUtils.dll
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoWpf.Logging\SunamoWpf.Logging\bin\Release\net10.0-windows\SunamoWpf.Core.pdb
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoWpf.Logging\SunamoWpf.Logging\bin\Release\net10.0-windows\SunamoWpf.SunamoUtils.pdb
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoWpf.Logging\SunamoWpf.Logging\obj\Release\net10.0-windows\SunamoWpf.Logging.csproj.AssemblyReference.cache
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoWpf.Logging\SunamoWpf.Logging\obj\Release\net10.0-windows\SunamoWpf.Logging.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoWpf.Logging\SunamoWpf.Logging\obj\Release\net10.0-windows\SunamoWpf.Logging.csproj.CoreCompileInputs.cache
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoWpf.Logging\SunamoWpf.Logging\obj\Release\net10.0-windows\SunamoWpf.Logging.sourcelink.json
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoWpf.Logging\SunamoWpf.Logging\obj\Release\net10.0-windows\SunamoWp.57C6D6AD.Up2Date
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoWpf.Logging\SunamoWpf.Logging\obj\Release\net10.0-windows\SunamoWpf.Logging.dll
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoWpf.Logging\SunamoWpf.Logging\obj\Release\net10.0-windows\refint\SunamoWpf.Logging.dll
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoWpf.Logging\SunamoWpf.Logging\obj\Release\net10.0-windows\SunamoWpf.Logging.pdb
+E:\vs\Projects\PlatformIndependentNuGetPackages\SunamoWpf.Logging\SunamoWpf.Logging\obj\Release\net10.0-windows\ref\SunamoWpf.Logging.dll
