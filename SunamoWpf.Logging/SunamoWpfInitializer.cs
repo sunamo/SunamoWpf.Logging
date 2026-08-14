@@ -4,6 +4,7 @@ namespace SunamoWpf;
 /// EN: Public API for initializing SunamoWpf library
 /// CZ: Veřejné API pro inicializaci SunamoWpf knihovny
 /// </summary>
+[System.Runtime.Versioning.SupportedOSPlatform("windows")]
 public static class SunamoWpfInitializer
 {
     /// <summary>
