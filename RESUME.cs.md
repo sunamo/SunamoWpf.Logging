@@ -1,13 +1,37 @@
 ---
-schema_version: 2
+schema_version: 6
 type: library
-file_count: 4
-delete_recommendation_percent: 85
-generated_date: 2026-09-30
-generated_time: 15:08:20
+file_count: 17
+avg_lines_per_file: 28
+move_to_legacy_percent: 8
+generated_date: 2026-10-01
+generated_time: 16:43:12
+github_source_url: 
+last_build_ok: 
+last_build_date: 
+last_tests_run_date: 
+covered_lines: 
+total_lines: 
 ---
 
 ## Description
 
-Prázdný zástupný balíček bez kódu a bez referencí na jiné balíčky; csproj má popis "Merged into SunamoWpf.Core". Zdroje (logging) byly přesunuty do balíčku SunamoWpf.Core (`SunamoWpf.Core\Merged$k`), protože veřejné typy se vystavují společně s typy z Core a samostatné balíčky by na straně konzumentů kolidovaly.
-Repo je kandidát na smazání, jakmile na balíček nic nespoléhá.
+WPF logovací pomůcky vyčleněné z balíčku SunamoWpf: WpfLogger, StatusesLogger a ladicí třídy (FrameworkElementDebug, GridDebug). Je součástí sbírky WindowsNuGetPackages.
+
+## Původ zdrojáků
+
+Staženo z GitHubu: **ne** — vlastní projekt.
+
+- Ověřeno: Remote origin je vlastní repo sunamo; kód je součástí vlastní sbírky balíčků.
+
+## Doporučení přesunu do legacy
+
+Doporučení přesunu do sunamocz-legacy.visualstudio.com: **8 %** — Malý, ale aktivní balíček rodiny SunamoWpf.
+
+- Malý rozsah
+- Součást aktivní rodiny
+
+## Vazby na moje repa
+
+- Submoduly: žádné
+- ProjectReference / PackageReference: SunamoWpf.Core, SunamoWpf.SunamoUtils
